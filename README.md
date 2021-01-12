@@ -2,7 +2,7 @@
 
 <p>
 I'm Gabriel Carrasco a front-end developer from perù 
-	<img src="https://www.flaticon.com/svg/vstatic/svg/330/330497.svg?token=exp=1610406888~hmac=496eecdfd7325ff0643db7cabb73bbad" style="vertical-align: -.20em;" width="18">
+	![<img src="./src/icons/peru.svg" style="vertical-align: -.20em;" width="18">]
 	and live in italy :it:
 </p>
 
@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 
 <!-- 
 [![in](https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1610408633~hmac=e90d60887d94140f832feadd40c30031)](https://www.linkedin.com/in/gabriel-carrasco-667562117) 
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>			
 -->
 
  
