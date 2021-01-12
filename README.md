@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## Find me in :
 
-[<img src="./src/icons/linkedin.svg" width="30">][in]
-[<img src="./src/icons/outlook.svg" width="30">][outlook]
-[<img src="./src/icons/instagram.svg" width="30">][instagram]
+[<img src="./src/icons/Socials/linkedin.svg" width="30">][in]
+[<img src="./src/icons/Socials/outlook.svg" width="30">][outlook]
+[<img src="./src/icons/Socials/instagram.svg" width="30">][instagram]
 
 ## Tecnologies
 
