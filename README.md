@@ -2,16 +2,21 @@
 
 <p>
 I'm Gabriel Carrasco a front-end developer from perù 
-	![<img src="./src/icons/peru.svg" style="vertical-align: -.20em;" width="18">]
-	and live in italy :it:
+<a><img src="./src/icons/peru.svg" width="24"></a> 
+and live in italy 
+<a><img src="./src/icons/italy.svg" width="24" height="14"></a>
 </p>
+
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Web Responsive Pages
+- :telescope:  I’m currently working on Web Responsive Pages
+
 - 🌱 I’m currently learning Javascript in deep
+
 - 💬 Ask me about Frontend and Design
+
 - 🏆 Projects in Codepen
 
 ## Find me in :
