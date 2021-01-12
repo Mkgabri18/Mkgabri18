@@ -2,9 +2,9 @@
 
 <p>
 I'm Gabriel Carrasco a front-end developer from perù
-<a><img src="./src/icons/peru.svg" width="24"></a>
+<a><img src="./src/icons/Flags/peru.svg" width="24"></a>
 and live in italy
-<a><img src="./src/icons/italy.svg" width="24" height="14"></a>
+<a><img src="./src/icons/Flags/italy.svg" width="24" height="14"></a>
 </p>
 
 
