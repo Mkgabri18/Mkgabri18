@@ -56,12 +56,14 @@ Here are some ideas to get you started:
 <img src="./src/icons/Build/npm.svg" width="50" alt="Npm" title="Npm">
 </p>
 
-
+## Code Activity
+[![Mkgabri18's github stats](https://github-readme-stats.vercel.app/api?username=Mkgabri18)][hub-stat]
 
 
 [in]:https://www.linkedin.com/in/gabriel-carrasco-667562117 "Linkedin profile"
 [outlook]:mailto:gabriel136@hotmail.it "My email"
 [instagram]:https://www.google.it "Instagram"
+[hub-stat]:(https://github.com/Mkgabri18/github-readme-stats)
 
 <!--
 [![in](https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1610408633~hmac=e90d60887d94140f832feadd40c30031)](https://www.linkedin.com/in/gabriel-carrasco-667562117)
