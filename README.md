@@ -28,20 +28,35 @@ Here are some ideas to get you started:
 ## Tecnologies
 
 <p>
-<img src="./src/icons/html5.svg" width="30" alt="HTML5" title="HTML5">
-<img src="./src/icons/css3.svg" width="30" alt="CSS3" title="CSS3">
-<img src="./src/icons/js.svg" width="30" alt="JAVASCRIPT" title="JAVASCRIPT">
-<img src="./src/icons/bootstrap.png" width="30" alt="Bootstrap" title="Bootstrap">
-<img src="./src/icons/sass.svg" width="30" alt="Sass" title="Sass">
-<img src="./src/icons/angular.png" width="30" alt="Angular" title="Angular">
+<img src="./src/icons/Tecnologies/html5.svg" width="50" alt="HTML5" title="HTML5">
+<img src="./src/icons/Tecnologies/css3.svg" width="50" alt="CSS3" title="CSS3">
+<img src="./src/icons/Tecnologies/js.svg" width="50" alt="JAVASCRIPT" title="JAVASCRIPT">
+<img src="./src/icons/Tecnologies/bootstrap.png" width="50" alt="Bootstrap" title="Bootstrap">
+<img src="./src/icons/Tecnologies/sass.svg" width="50" alt="Sass" title="Sass">
+<img src="./src/icons/Tecnologies/angular.png" width="50" alt="Angular" title="Angular">
 </p>
 
-## Software
+
+
+## Tools
 
 <p>
-<img src="https://avatars1.githubusercontent.com/u/25044327?s=200&v=4" width="30" alt="Vscode" title="Vscode">
-<img src="https://wpdatatables.com/wp-content/uploads/2018/06/27885232610_e6d8fa513b_b.jpg" width="60" alt="Brackets" title="Brackets">
+<img src="./src/icons/Tools/vscode.png" width="50" alt="Vscode" title="Vscode">
+<img src="./src/icons/Tools/Brackets.svg" width="60" alt="Brackets" title="Brackets">
+<img src="./src/icons/Tools/notion.png" width="50" alt="Notion" title="Notion">
 </p>
+
+
+## DevOps
+
+<p>
+<img src="./src/icons/Build/git.svg" width="50" alt="Git" title="Git">
+<img src="./src/icons/Build/github.svg" width="50" alt="Github" title="Github">
+<img src="./src/icons/Build/bitbucket.png" width="50" alt="Bitbucket" title="Bitbucket">
+<img src="./src/icons/Build/npm.svg" width="50" alt="Npm" title="Npm">
+</p>
+
+
 
 
 [in]:https://www.linkedin.com/in/gabriel-carrasco-667562117 "Linkedin profile"
@@ -54,4 +69,4 @@ Here are some ideas to get you started:
 <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>			
 -->
 
- 
+
