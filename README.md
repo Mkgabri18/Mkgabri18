@@ -1,9 +1,9 @@
 ### I'm very pleased to meet you :v:
 
 <p>
-I'm Gabriel Carrasco a front-end developer from perù 
-<a><img src="./src/icons/peru.svg" width="24"></a> 
-and live in italy 
+I'm Gabriel Carrasco a front-end developer from perù
+<a><img src="./src/icons/peru.svg" width="24"></a>
+and live in italy
 <a><img src="./src/icons/italy.svg" width="24" height="14"></a>
 </p>
 
@@ -63,10 +63,9 @@ Here are some ideas to get you started:
 [outlook]:mailto:gabriel136@hotmail.it "My email"
 [instagram]:https://www.google.it "Instagram"
 
-<!-- 
-[![in](https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1610408633~hmac=e90d60887d94140f832feadd40c30031)](https://www.linkedin.com/in/gabriel-carrasco-667562117) 
--->
+<!--
+[![in](https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1610408633~hmac=e90d60887d94140f832feadd40c30031)](https://www.linkedin.com/in/gabriel-carrasco-667562117)
+
 <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>			
 
-
-
+-->
