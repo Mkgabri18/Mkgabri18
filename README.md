@@ -1,4 +1,4 @@
-### I'm very pleased to meet you 👋
+### I'm very pleased to meet you :v:
 
 <p>
 I'm Gabriel Carrasco a front-end developer from perù 
@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 
 - :telescope:  I’m currently working on Web Responsive Pages
 
-- 🌱 I’m currently learning Javascript in deep
+- :seedling: I’m currently learning Javascript in deep
 
-- 💬 Ask me about Frontend and Design
+- :mailbox_with_mail: Ask me about Frontend and Design
 
-- 🏆 Projects in Codepen
+- :trophy: Projects in Codepen
 
 ## Find me in :
 
-[<img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1610408633~hmac=e90d60887d94140f832feadd40c30031" width="30">][in]
-[<img src="https://www.flaticon.com/svg/vstatic/svg/732/732223.svg?token=exp=1610409461~hmac=286ab8bf5074f705ebce4b4e85331017" width="30">][outlook]
+[<img src="./src/icons/linkedin.svg" width="30">][in]
+[<img src="./src/icons/outlook.svg" width="30">][outlook]
 
 ## Tecnologies
 
