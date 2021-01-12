@@ -57,7 +57,16 @@ Here are some ideas to get you started:
 </p>
 
 ## Code Activity
-[![Mkgabri18's github stats](https://github-readme-stats.vercel.app/api?username=Mkgabri18)][hub-stat]
+
+[![Gabriel Carrasco's github stats](https://github-readme-stats.vercel.app/api?username=Mkgabri18&show_icons=true&theme=monokai)][hub-stat]
+
+<br/>
+
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/Mkgabri18/Mkgabri18" alt="Visitors badge" />
+   </a>
+</p>
 
 
 [in]:https://www.linkedin.com/in/gabriel-carrasco-667562117 "Linkedin profile"
