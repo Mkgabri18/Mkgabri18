@@ -2,9 +2,9 @@
 
 <p>
 I'm Gabriel Carrasco a front-end developer from perù
-<a><img src="./src/icons/peru.svg" width="24"></a>
+<a><img src="./src/icons/Flags/peru.svg" width="24"></a>
 and live in italy
-<a><img src="./src/icons/italy.svg" width="24" height="14"></a>
+<a><img src="./src/icons/Flags/italy.svg" width="24" height="14"></a>
 </p>
 
 
@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## Find me in :
 
-[<img src="./src/icons/linkedin.svg" width="30">][in]
-[<img src="./src/icons/outlook.svg" width="30">][outlook]
-[<img src="./src/icons/instagram.svg" width="30">][instagram]
+[<img src="./src/icons/Socials/linkedin.svg" width="30">][in]
+[<img src="./src/icons/Socials/outlook.svg" width="30">][outlook]
+[<img src="./src/icons/Socials/instagram.svg" width="30">][instagram]
 
 ## Tecnologies
 
