@@ -63,8 +63,9 @@ Here are some ideas to get you started:
 <p>
 <img src="./src/icons/Design/photoshop.svg" width="50" alt="Photoshop" title="Photoshop">
 <img src="./src/icons/Design/illustrator.svg" width="50" alt="Illustrator" title="Illustrator">
-<img src="./src/icons/Design/figma.svg" height="70" alt="Figma" title="Figma">
+<img src="./src/icons/Design/figma-1.svg" height="50" alt="Figma" title="Figma">
 </p>
+
 
 
 
