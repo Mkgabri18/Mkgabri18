@@ -32,10 +32,14 @@ Here are some ideas to get you started:
 <img src="./src/icons/Tecnologies/html5.svg" width="50" alt="HTML5" title="HTML5">
 <img src="./src/icons/Tecnologies/css3.svg" width="50" alt="CSS3" title="CSS3">
 <img src="./src/icons/Tecnologies/js.svg" width="50" alt="JAVASCRIPT" title="JAVASCRIPT">
+<img src="./src/icons/Tecnologies/typescript.svg" width="50" alt="Typescript" title="Typescript">
+<img src="./src/icons/Tecnologies/markdown.svg" width="70" alt="Markdown" title="Markdown">
 <img src="./src/icons/Tecnologies/bootstrap.png" width="50" alt="Bootstrap" title="Bootstrap">
 <img src="./src/icons/Tecnologies/sass.svg" width="50" alt="Sass" title="Sass">
 <img src="./src/icons/Tecnologies/angular.png" width="50" alt="Angular" title="Angular">
 </p>
+
+
 ## Tools
 
 <p>
