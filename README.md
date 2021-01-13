@@ -2,10 +2,11 @@
 
 <p>
 I'm Gabriel Carrasco a front-end developer from perù
-<a><img src="./src/icons/Flags/peru.svg" width="24"></a>
+<a><img src="./src/icons/Flags/peru.svg" width="22" height="18"></a>
 and live in italy
 <a><img src="./src/icons/Flags/italy.svg" width="24" height="14"></a>
 </p>
+
 
 
 
@@ -35,9 +36,6 @@ Here are some ideas to get you started:
 <img src="./src/icons/Tecnologies/sass.svg" width="50" alt="Sass" title="Sass">
 <img src="./src/icons/Tecnologies/angular.png" width="50" alt="Angular" title="Angular">
 </p>
-
-
-
 ## Tools
 
 <p>
@@ -45,8 +43,6 @@ Here are some ideas to get you started:
 <img src="./src/icons/Tools/Brackets.svg" width="60" alt="Brackets" title="Brackets">
 <img src="./src/icons/Tools/notion.png" width="50" alt="Notion" title="Notion">
 </p>
-
-
 ## DevOps
 
 <p>
@@ -55,6 +51,23 @@ Here are some ideas to get you started:
 <img src="./src/icons/Build/bitbucket.png" width="50" alt="Bitbucket" title="Bitbucket">
 <img src="./src/icons/Build/npm.svg" width="50" alt="Npm" title="Npm">
 </p>
+
+## Plan
+<p>
+<img src="./src/icons/Plan/Jira.svg" width="50" alt="Jira" title="Jira">
+<img src="./src/icons/Plan/asana.svg" width="50" alt="Asana" title="Asana">
+<img src="./src/icons/Plan/trello.svg" width="50" alt="Trello" title="Trello">
+</p>
+
+## Design
+<p>
+<img src="./src/icons/Design/photoshop.svg" width="50" alt="Photoshop" title="Photoshop">
+<img src="./src/icons/Design/illustrator.svg" width="50" alt="Illustrator" title="Illustrator">
+<img src="./src/icons/Design/figma.svg" height="70" alt="Figma" title="Figma">
+</p>
+
+
+
 
 ## Code Activity
 
