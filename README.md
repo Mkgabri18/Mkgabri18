@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 <img src="./src/icons/Tools/Brackets.svg" width="60" alt="Brackets" title="Brackets">
 <img src="./src/icons/Tools/notion.png" width="50" alt="Notion" title="Notion">
 </p>
-## DevOps
 
+## DevOps
 <p>
 <img src="./src/icons/Build/git.svg" width="50" alt="Git" title="Git">
 <img src="./src/icons/Build/github.svg" width="50" alt="Github" title="Github">
