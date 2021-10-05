@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 - :trophy: Projects in Codepen
 
-<br>
 
 ## Find me in :
 
@@ -30,7 +29,6 @@ Here are some ideas to get you started:
 [<img src="./src/icons/Socials/instagram.svg" width="30">][instagram]
 
 <br>
-<hr>
 
 
 ## Tecnologies
